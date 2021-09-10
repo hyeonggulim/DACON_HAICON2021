@@ -41,7 +41,6 @@ TO DO LIST
 2. 데이터 전처리 측면 - paper 읽고 데이터 형태 공부 (도메인)
 3. 하이퍼 파라미터 (이동평균(EWMA) 방법 적용해보기 ,  AUTO THRESHOLD)
 4. PUBLIC PRIVATE 구간 찾아보기 
-
 5. 변수별로 상관계수 보기 (나눠지지만 잘 못찾겠음)
 
 
